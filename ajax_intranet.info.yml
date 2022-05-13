@@ -1,0 +1,5 @@
+name: AJAX ON INTRANETS
+type: module
+description: Accelerate AJAX responses onto Intranets.
+core: 8.x
+package: Custom
